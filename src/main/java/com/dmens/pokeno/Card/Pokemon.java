@@ -5,6 +5,9 @@ import com.dmens.pokeno.Ability.Ability;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+erfrefger
+
+
 public class Pokemon extends Card {
 
     private static final Logger LOG = LogManager.getLogger(Pokemon.class);
